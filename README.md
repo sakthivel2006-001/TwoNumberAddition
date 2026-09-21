@@ -52,3 +52,4 @@ Register Number: 212223220090
 
 NOTE
 The image included in this repository is an expected output/reference image. For final academic submission, replace it with a screenshot taken from the application actually running in Android Studio/emulator.
+<img width="1907" height="1068" alt="Screenshot 2026-09-21 092017" src="https://github.com/user-attachments/assets/a1bb18c8-71de-4951-82ef-f9ce05e62332" />
